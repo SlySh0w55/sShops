@@ -21,8 +21,8 @@ client_scripts {
 
     "config.lua",
 
-    --"client/cl_shops.lua",
-    --"client/cl_weapons.lua",
+    "client/cl_shops.lua",
+    "client/cl_weapons.lua",
     "client/cl_informatique.lua",
 
 }
