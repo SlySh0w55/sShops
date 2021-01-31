@@ -32,7 +32,7 @@ Config.Config = {
 }
 
 Config.Pos = {
-    "Shop"] = {
+    ["Shop"] = {
         { Position = vector4(24.129, -1345.156, 28.497, 266.946), PedType = "PED_TYPE_CIVMALE", Ped = "mp_m_shopkeep_01", Sprite = 52, Display = 4, Scale = 0.9, Colour = 2, Name = "Superette"},
         { Position = vector4(-705.90, -914.53, 18.21, 92.86), PedType = "PED_TYPE_CIVMALE", Ped = "mp_m_shopkeep_01", Sprite = 52, Display = 4, Scale = 0.9, Colour = 2, Name = "Superette"},
         { Position = vector4(-1221.54, -908.21, 11.32, 37.44), PedType = "PED_TYPE_CIVMALE", Ped = "mp_m_shopkeep_01", Sprite = 52, Display = 4, Scale = 0.9, Colour = 2, Name = "Superette"},
